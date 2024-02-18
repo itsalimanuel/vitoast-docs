@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.DtmmXp-g.js";const c=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),t={name:"usage.md"},p=n("",11),l=[p];function e(h,k,E,d,o,r){return a(),i("div",null,l)}const u=s(t,[["render",e]]);export{c as __pageData,u as default};

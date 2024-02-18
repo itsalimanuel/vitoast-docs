@@ -9,7 +9,6 @@ export default defineConfig({
     siteTitle: 'vitoast',
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/get-start" },
       { text: "Demo", link: "https://vitoast.vercel.app/" },
     ],
 
